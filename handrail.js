@@ -6,10 +6,10 @@
  * Give your users something to hold on to.
  *
  * Copyright 2015 Ben Pryke | www.benpryke.com
- * Released under the MIT license http://en.wikipedia.org/wiki/MIT_License
+ * Released under the MIT license | http://en.wikipedia.org/wiki/MIT_License
  * You are free to use Handrail in any other project (even commercial projects) as long as the copyright header is left intact.
  *
- * Requires jQuery http://jquery.com/
+ * Requires jQuery | http://jquery.com/
  */
 (function (window, document, $) {
     // Variables =============================================================

@@ -33,7 +33,7 @@ Optionally, Handrail can cancel the selection when the user presses the escape k
 To turn this on, call `$handrail.respondToEscape(true)`.
 
 ## License
-Copyright 2015 [Benjamin Pryke](www.benpryke.com)
+Copyright 2015 [Benjamin Pryke](http://www.benpryke.com)
 
 Released under the [MIT license](http://en.wikipedia.org/wiki/MIT_License)
 
