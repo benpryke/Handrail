@@ -1,0 +1,30 @@
+/* Vertical in-text position marker, a span */
+.handrail-marker {
+    position: absolute;
+    background-color: #F01B00;
+    cursor: pointer;
+    width: 2px;
+    height: 1em;
+}
+
+/* Handle attached to the marker, a div */
+.handrail-handle {
+    position: absolute;
+    background-color: #F01B00;
+    width: 10px;
+    height: 10px;
+}
+
+/* Specific styles for the handle at the start of the selection */
+.handrail-handle-start {
+    right: -8px;
+    top: -10px;
+    box-shadow: #555 1px 1px 1px;
+}
+
+/* Specific styles for the handle at the end of the selection */
+.handrail-handle-end {
+    left: -8px;
+    bottom: -10px;
+    box-shadow: #555 -1px -1px 1px;
+}
