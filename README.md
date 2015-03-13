@@ -7,6 +7,10 @@ Give your users something to hold on to.
 ## Usage
 Simply include `handrail.js` and `handrail.css` on any page to add functionality.
 
+    <script src="handrail.js"></script>
+    <link rel="stylesheet" href="handrail.css">
+
+## Customisation
 Handrail uses the following 4 classes to style the handles. Override these classes to style your own handles.
 
     /* Vertical in-text position marker, a span */
